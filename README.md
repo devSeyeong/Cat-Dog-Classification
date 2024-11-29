@@ -8,13 +8,13 @@
 
 ## 목차
 
-1. [데이터셋](https://www.notion.so/14bc09fa17b9802080bdc142f2b838c0?pvs=21)
-2. [필수 준비사항](https://www.notion.so/14bc09fa17b9802080bdc142f2b838c0?pvs=21)
-3. [프로젝트 구조](https://www.notion.so/14bc09fa17b9802080bdc142f2b838c0?pvs=21)
-4. [모델 구조](https://www.notion.so/14bc09fa17b9802080bdc142f2b838c0?pvs=21)
-5. [훈련 및 검증](https://www.notion.so/14bc09fa17b9802080bdc142f2b838c0?pvs=21)
-6. [사용 방법](https://www.notion.so/14bc09fa17b9802080bdc142f2b838c0?pvs=21)
-7. [결과](https://www.notion.so/14bc09fa17b9802080bdc142f2b838c0?pvs=21)
+1. [데이터셋]
+2. [필수 준비사항]
+3. [프로젝트 구조]
+4. [모델 구조]
+5. [훈련 및 검증]
+6. [사용 방법]
+7. [결과]
 
 ---
 
@@ -103,7 +103,7 @@ CNN 모델은 다음과 같은 레이어로 구성됩니다:
 ## 사용 방법
 
 1. **데이터 준비**:
-    - 데이터셋을 다운로드하고, [데이터셋](https://www.notion.so/14bc09fa17b9802080bdc142f2b838c0?pvs=21) 섹션에 설명된 대로 폴더를 구성합니다.
+    - 데이터셋을 다운로드하고, [데이터셋] 섹션에 설명된 대로 폴더를 구성합니다.
 2. **코드 실행**:
 아래 코드를 `train_model.py` 파일로 저장하고 실행합니다.
     
